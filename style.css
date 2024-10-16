@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.navbar {
+  background-color: #22e0dd;
+  border: black solid 1px;
+}
+.logo {
+  color: white;
+  font-size: 25px;
+  font-weight: 400;
+}
+.nav-link:hover {
+  text-decoration: underline;
+  text-decoration-color: gold;
+  color: white;
+}
+.btn {
+  background-color: rgb(23, 77, 14);
+  color: wheat;
+}
+.btn:hover {
+  background-color: wheat;
+  color: orangered;
+}
+
+.cover-img {
+  background-image: url(cover-img.jpg);
+  background-attachment: scroll;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 550px;
+  color: gold;
+  font-size: 80px;
+}
