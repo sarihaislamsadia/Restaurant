@@ -27,7 +27,7 @@
 }
 
 .cover-img {
-  background-image: url(cover-img.jpg);
+  background-image: url(icon/cover-img.jpg);
   background-attachment: scroll;
   background-position: center;
   background-repeat: no-repeat;
